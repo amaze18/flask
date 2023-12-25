@@ -4,7 +4,6 @@ altair
 pandas
 hugchat>=0.0.8
 beautifulsoup4==4.12.2
-openai>=0.27.7
 openapi-schema-pydantic>=1.2.4
 streamlit
 python-dotenv>=1.0.0
