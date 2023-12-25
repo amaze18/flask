@@ -2,4 +2,4 @@
 Streamlit web application.
 
 
-[![Deploy on Railway](https://railway.app/button.svg)]
+![Deploy on Railway](https://railway.app/button.svg)
