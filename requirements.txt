@@ -27,7 +27,8 @@ langchain
 sentence_transformers
 tiktoken
 pdfminer.six
-openai
+openai>=1.2.0
 faiss-cpu
 unstructured
 htbuilder
+openai.embeddings_utils
